@@ -10,4 +10,8 @@ criação da tela de cadastro e do link para tela de cadastro a página principa
 
 18/03/2024
 
- Utilizamos o gerador de logotipos do favicon. e as fontes com Google Fonts.
+Utilizamos o gerador de logotipos do favicon. e as fontes com Google Fonts.
+
+26/03/2024
+
+criamos uma página sobre o colégio
